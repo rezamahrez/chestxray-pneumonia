@@ -8,3 +8,7 @@ Pneumonia is one of the most pre-eminent medical diseases in today’s world. Pn
 Dataset source : 
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
+Link of presentation :
+https://docs.google.com/presentation/d/10KOcv9SGtww1zMeqaSNbyXmjoFQTJDxCPwkmscxOuro/edit?usp=sharing
+
+
